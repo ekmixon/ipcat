@@ -1661,6 +1661,7 @@
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
 98.142.0.0,98.142.15.255,travailsystems.com,http://travailsystems.com/
+98.142.96.0,98.142.111.255,HostDime,https://hostdime.com/
 98.142.208.0,98.142.223.255,Total Server Solutions,http://totalserversolutions.com/
 98.143.144.0,98.143.159.255,QuadraNet,https://quadranet.com/
 98.158.112.0,98.158.127.255,Reliable Hosting,http://reliablehosting.com/
@@ -2073,6 +2074,7 @@
 162.248.160.0,162.248.167.255,KW Datacenter CA,http://www.kwdatacentre.com/
 162.250.120.0,162.250.127.255,InterServer.net,http://www.interserver.net/
 162.250.236.0,162.250.236.255,Amazon AWS,http://www.amazon.com/aws/
+162.251.60.0,162.251.63.255,GTHost,https://globaltelehost.com/
 162.252.240.0,162.252.243.255,KW Datacenter CA,http://www.kwdatacentre.com/
 163.47.8.0,163.47.11.255,DigitalOcean,https://www.digitalocean.com/
 164.40.133.0,164.40.133.255,GoGrid LLC,http://www.gogrid.com/
@@ -2111,6 +2113,7 @@
 169.56.64.0,169.56.159.255,SoftLayer,http://www.softlayer.com/
 169.57.0.0,169.57.255.255,SoftLayer,http://www.softlayer.com/
 172.64.0.0,172.71.255.255,Cloudflare Inc,https://www.cloudflare.com/
+172.82.128.0,172.82.143.255,QuickPacket,https://quickpacket.com/
 172.96.128.0,172.96.135.255,Versaweb,https://versaweb.com/
 172.98.64.0,172.98.95.255,Total Server Solutions,http://totalserversolutions.com/
 172.111.64.0,172.111.127.255,Fastly,https://www.fastly.com/
@@ -2122,6 +2125,7 @@
 173.1.0.0,173.1.255.255,GoGrid,http://www.gogrid.com/
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
+173.45.80.56,173.45.80.63,XLHost.com,http://www.xlhost.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
@@ -2834,6 +2838,7 @@
 199.58.196.0,199.58.199.255,Bluehost.com,http://www.bluehost.com/
 199.59.56.0,199.59.63.255,hostwinds.com,http://www.hostwinds.com/
 199.59.244.0,199.59.247.255,PlanetHoster,http://www.planethoster.net/
+199.60.101.0,199.60.101.255,Dedicated.com,https://dedicated.com/
 199.68.176.0,199.68.183.255,datacenterscanada.com,http://www.datacenterscanada.com/
 199.71.212.0,199.71.215.255,Psychz Networks,http://psychz.net/
 199.71.232.0,199.71.235.255,netrouting.com,http://www.netrouting.com/
