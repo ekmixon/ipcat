@@ -991,6 +991,7 @@
 69.89.224.0,69.89.239.255,ActiveHost,http://www.activehost.com/
 69.90.0.0,69.90.255.255,PEER 1,http://www.peer1.com/
 69.93.0.0,69.93.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
+69.94.128.0,69.94.159.255,Lanset America Corporation,https://www.lanset.com/
 69.147.224.0,69.147.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 69.162.64.0,69.162.127.255,Limestone Networks,http://www.limestonenetworks.com/
 69.162.128.0,69.162.191.255,steadfast.net,http://steadfast.net/
