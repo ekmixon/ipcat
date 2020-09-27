@@ -327,6 +327,18 @@
 37.221.160.224,37.221.160.255,CINIPAC,http://cinipac.com/
 37.235.49.0,37.235.49.255,EDIS,http://www.edis.at/
 37.235.53.0,37.235.63.255,EDIS,http://www.edis.at/
+38.68.134.0,38.68.135.255,GTHost,https://gthost.com/
+38.72.132.0,38.72.132.255,GTHost,https://gthost.com/
+38.75.136.0,38.75.137.255,GTHost,https://gthost.com/
+38.86.135.0,38.86.135.255,GTHost,https://gthost.com/
+38.91.100.0,38.91.102.255,GTHost,https://gthost.com/
+38.91.106.0,38.91.107.255,GTHost,https://gthost.com/
+38.99.247.0,38.99.247.255,GTHost,https://gthost.com/
+38.114.114.0,38.114.114.255,GTHost,https://gthost.com/
+38.114.119.0,38.114.119.255,GTHost,https://gthost.com/
+38.121.43.0,38.121.43.255,GTHost,https://gthost.com/
+38.128.66.0,38.128.66.255,GTHost,https://gthost.com/
+38.143.66.0,38.143.66.255,GTHost,https://gthost.com/
 40.64.0.0,40.65.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.66.32.0,40.66.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.66.120.0,40.66.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -427,6 +439,10 @@
 45.63.0.0,45.63.127.255,Choopa,https://www.choopa.com/
 45.76.0.0,45.77.255.255,Choopa,https://www.choopa.com/
 45.125.236.0,45.125.239.255,Ftech,https://www.ftech.vn/
+45.128.158.0,45.128.158.255,GTHost,https://gthost.com/
+45.134.178.0,45.134.178.255,GTHost,https://gthost.com/
+45.138.1.0,45.138.1.255,GTHost,https://gthost.com/
+45.139.158.0,45.139.158.255,GTHost,https://gthost.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
@@ -1702,6 +1718,7 @@
 103.28.148.0,103.28.149.255,Argon Data Communication,http://easyway.co.id
 103.31.4.0,103.31.7.255,Cloudflare Inc,https://www.cloudflare.com/
 103.45.228.0,103.45.231.255,ESC,https://esc.vn/
+103.120.204.0,103.120.205.255,GTHost,https://gthost.com/
 103.197.148.0,103.197.148.255,Trabia,https://www.trabia.com/
 103.244.50.0,103.244.50.255,Fastly,https://www.fastly.com/
 103.245.222.0,103.245.224.255,Fastly,https://www.fastly.com/
@@ -1926,6 +1943,7 @@
 137.135.0.0,137.135.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.91.0.0,138.91.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.197.0.0,138.197.255.255,DigitalOcean,https://www.digitalocean.com/
+139.64.164.0,139.64.165.255,GTHost,https://gthost.com/
 139.162.0.0,139.162.255.255,Linode,http://www.linode.com/
 139.199.0.0,139.199.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
 140.143.0.0,140.143.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
@@ -1940,6 +1958,7 @@
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/
 142.54.160.0,142.54.191.255,Data Shack,https://www.datashack.net/
 142.91.0.0,142.91.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
+142.202.48.0,142.202.50.255,GTHost,https://gthost.com/
 142.234.0.0,142.234.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 144.76.59.224,144.76.59.255,Hetzner Online AG,http://www.hetzner.de/
 144.217.0.0,144.217.255.255,OVH CA,https://www.ovh.com/ca/en/
@@ -1976,6 +1995,7 @@
 151.237.176.0,151.237.177.255,webexxpurts.com,http://webexxpurts.com/
 151.237.181.0,151.237.181.255,webexxpurts.com,http://webexxpurts.com/
 151.237.184.0,151.237.184.255,webexxpurts.com,http://webexxpurts.com/
+154.16.139.0,154.16.139.255,GTHost,https://gthost.com/
 155.94.128.0,155.94.255.255,QuadraNet,https://www.quadranet.com/
 157.52.64.0,157.52.127.255,Fastly,https://www.fastly.com/
 157.55.2.128,157.55.2.191,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2090,6 +2110,7 @@
 166.62.0.0,166.62.127.255,GoDaddy.com Inc,http://www.godaddy.com/
 166.78.0.0,166.78.255.255,Rackspace,http://www.rackspace.com/
 167.88.32.0,167.88.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
+167.88.60.0,167.88.63.255,GTHost,https://gthost.com/
 167.99.0.0,167.99.255.255,DigitalOcean,https://www.digitalocean.com/
 167.114.0.0,167.114.255.255,OVH,https://www.ovh.com/ca/en/
 167.160.32.0,167.160.63.255,Web2Objects,https://web2objects.com/
