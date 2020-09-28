@@ -222,6 +222,7 @@
 35.216.128.0,35.216.255.255,Google App Engine,https://cloud.google.com/appengine
 35.217.128.0,35.217.255.255,Google App Engine,https://cloud.google.com/appengine
 35.235.216.0,35.235.239.255,Google App Engine,https://cloud.google.com/appengine
+37.9.61.0,37.9.61.255,UK Servers,https://www.ukservers.com/
 37.9.169.0,37.9.169.255,WebSupport,https://www.websupport.sk/
 37.9.224.0,37.9.228.223,seeweb.it,http://seeweb.it/
 37.10.0.0,37.10.127.255,Optimate Server,http://optimate-server.de/
@@ -1292,6 +1293,7 @@
 81.177.32.0,81.177.33.255,1gb,https://www.1gb.ru/
 81.177.135.0,81.177.135.255,Jino,https://jino.ru/
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
+82.102.19.0,82.102.19.255,M247,http://m247.ro/
 82.103.128.0,82.103.191.255,easyspeedy,http://easyspeedy.com/
 82.113.128.0,82.113.159.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 82.139.64.0,82.139.127.255,prolocation.net,http://prolocation.net/
@@ -1510,6 +1512,7 @@
 91.229.174.0,91.229.175.255,CCPG Solutions,http://ccpg.co.uk/
 91.229.248.0,91.229.248.255,EpioHost,http://epiohost.net/
 91.232.96.0,91.232.97.255,Xirra GmbH,http://http://www.xirra.net/
+91.233.116.0,91.233.116.255,Oy Creanova Hosting Solutions Ltd,https://creanova.org/
 91.233.249.0,91.233.249.255,Voxility,https://www.voxility.com/
 91.234.22.0,91.234.22.255,T-N Media,http://t-n-media.de/
 91.237.52.0,91.237.52.255,Biznes-Host.pl,http://biznes-host.pl/
@@ -1944,6 +1947,7 @@
 138.91.0.0,138.91.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.197.0.0,138.197.255.255,DigitalOcean,https://www.digitalocean.com/
 139.64.164.0,139.64.165.255,GTHost,https://gthost.com/
+139.99.208.0,139.99.209.255,OVH Hosting,https://us.ovhcloud.com/
 139.162.0.0,139.162.255.255,Linode,http://www.linode.com/
 139.199.0.0,139.199.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
 140.143.0.0,140.143.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
@@ -2247,6 +2251,7 @@
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
 176.103.48.0,176.103.63.255,XServer,https://xserver.ua/
 176.121.14.0,176.121.14.255,General Servers,https://general-servers.com/
+176.126.83.0,176.126.83.255,OneProvider,https://oneprovider.com/
 176.126.240.0,176.126.247.255,BHost Inc,https://www.bhost.net/
 176.227.192.120,176.227.192.127,Redstation Limited,http://redstation.com/
 176.227.195.0,176.227.195.7,Redstation Limited,http://redstation.com/
@@ -2359,6 +2364,7 @@
 178.255.144.0,178.255.151.255,Blix Solutions,http://blixsolutions.no/
 178.255.152.0,178.255.159.255,ANEXIA,https://www.anexia-it.com/
 178.255.192.0,178.255.199.255,qweb,http://www.qweb.nl/
+179.43.128.0,179.43.191.255,Private Layer,https://privatelayer.com/
 179.61.207.0,179.61.207.255,Host1Plus Brazil,http://www.host1plus.com/
 179.107.32.0,179.107.47.255,alog,http://www.alog.com.br/
 180.92.184.0,180.92.191.255,Voxel,http://www.voxel.net/
@@ -2544,6 +2550,7 @@
 192.3.0.0,192.3.255.255,ColoCrossing,http://www.colocrossing.com/
 192.30.136.0,192.30.139.255,Input Output Flood LLC,http://ioflood.com/
 192.34.56.0,192.34.63.255,DigitalOcean USA,https://www.digitalocean.com/
+192.34.80.0,192.34.87.255,AxcelX,http://www.axcelx.com/
 192.34.108.0,192.34.111.255,WoW Technologies,http://wowrack.com/
 192.40.56.0,192.40.59.255,Total Server Solutions,http://totalserversolutions.com/
 192.40.112.0,192.40.115.255,ihnetworks.net,http://ihnetworks.net/
