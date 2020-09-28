@@ -214,6 +214,7 @@
 23.103.64.32,23.103.64.95,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.103.66.0,23.103.67.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.104.0.0,23.111.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
+23.134.192.0,23.134.192.255,NOLA Broadband,https://www.nolabroadband.com/
 23.192.0.0,23.223.255.255,Akamai,http://akamai.com/
 23.226.64.0,23.226.79.255,Input Output Flood LLC,http://ioflood.com/
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
@@ -324,6 +325,7 @@
 37.72.168.0,37.72.168.255,Swiftway,http://swiftway.net/
 37.72.171.0,37.72.171.255,Swiftway,http://swiftway.net/
 37.72.173.0,37.72.173.127,Swiftway,http://swiftway.net/
+37.120.147.0,37.120.147.255,M240,http://m240.ro/
 37.122.208.0,37.122.211.255,Webfusion,http://www.webfusion.com/
 37.123.112.0,37.123.112.255,UK2 Group,http://www.uk2.net/
 37.123.114.0,37.123.115.255,UK2 Group,http://www.vps.net/
@@ -1943,6 +1945,7 @@
 104.214.0.0,104.215.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.222.160.0,104.222.191.255,Server Network Technologies,http://www.hoststore.com/
 104.223.0.0,104.223.127.255,QuadraNet,https://www.quadranet.com/
+104.225.1.0,104.225.1.255,NetActuate,https://netactuate.com/
 104.233.0.0,104.233.63.255,Server Network Technologies,http://www.hoststore.com/
 104.233.64.0,104.233.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.238.128.0,104.238.191.255,Choopa,https://www.choopa.com/
@@ -2803,6 +2806,7 @@
 192.210.48.0,192.210.63.255,Psychz Networks,http://psychz.net/
 192.210.128.0,192.210.255.255,ColoCrossing,http://www.colocrossing.com/
 192.211.48.0,192.211.63.255,Incero,http://www.incero.com/
+192.225.170.0,192.225.170.255,interphase,http://
 192.227.128.0,192.227.255.255,ColoCrossing,http://www.colocrossing.com/
 192.228.96.0,192.228.111.255,fiberhub.com,http://www.fiberhub.com/
 192.232.192.0,192.232.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
