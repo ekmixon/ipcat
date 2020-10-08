@@ -1,3 +1,4 @@
+2.58.44.0,2.58.47.255,M247,http://m247.ro/
 3.0.0.0,3.1.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.0.0,3.5.73.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.76.0,3.5.87.255,Amazon AWS,http://www.amazon.com/aws/
@@ -43,6 +44,7 @@
 5.144.163.120,5.144.166.255,seeweb.it,http://seeweb.it/
 5.152.192.0,5.152.223.255,Redstation Limited,http://redstation.com/
 5.153.0.0,5.153.63.255,SoftLayer,http://www.softlayer.com/
+5.181.232.0,5.181.235.255,M247,http://m247.ro/
 5.189.144.0,5.189.159.255,Contabo GmbH,https://contabo.de/
 5.196.1.0,5.196.255.255,OVH FR,http://www.ovh.com
 5.199.129.64,5.199.129.95,myLoc,http://www.myloc.de/
@@ -1291,6 +1293,7 @@
 74.117.208.0,74.117.211.255,Sprocket Networks,http://www.sprocketnetworks.com/
 74.117.236.0,74.117.239.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.118.36.0,74.118.39.255,SevenL Networks Inc,https://www.sevenl.net/
+74.118.136.0,74.118.143.255,TeraSwitch Networks Inc,https://teraswitch.com/
 74.118.192.0,74.118.195.255,Volume Drive,http://volumedrive.com
 74.119.144.0,74.119.147.255,colo@,http://coloat.com/
 74.119.216.0,74.119.219.255,Continuum Data Centers,http://www.continuumdatacenters.com/
@@ -2199,6 +2202,7 @@
 154.16.139.0,154.16.139.255,GTHost,https://gthost.com/
 155.94.128.0,155.94.255.255,QuadraNet,https://www.quadranet.com/
 157.52.64.0,157.52.127.255,Fastly,https://www.fastly.com/
+157.52.132.0,157.52.132.255,TeraSwitch Networks Inc,https://teraswitch.com/
 157.55.2.128,157.55.2.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.3.0,157.55.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.7.128,157.55.7.191,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -3219,6 +3223,7 @@
 204.15.192.0,204.15.199.255,prioritycolo.com,http://prioritycolo.com/
 204.15.248.0,204.15.255.255,Certified Hosting,https://certifiedhosting.com/
 204.16.0.0,204.16.7.255,Braslink,http://www.braslink.com/
+204.16.247.0,204.16.247.255,RouterHosting,https://www.routerhosting.com/
 204.19.162.0,204.19.162.255,Voxel,http://www.voxel.net/
 204.27.56.0,204.27.63.255,Joe's Datacenter,http://www.joesdatacenter.com/
 204.28.100.0,204.28.103.255,Immedion,http://immedion.com/

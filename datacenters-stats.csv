@@ -95,8 +95,8 @@ Fasthosts Internet Ltd,81920
 OVH FR,81664
 Peak Web Hosting,80384
 SharkTECH Internet Services,79872
-demos,78592
 BlueConnex,78080
+demos,74496
 Alibaba Cloud Japan,73728
 Data 102,73728
 Datapoint,73728
@@ -125,7 +125,6 @@ DimeNOC,57344
 MESH,57344
 InterServer.net,56320
 Jumpline Inc,53248
-thorn.net,53248
 Total Server Solutions,53248
 wehostwebsites.com,53248
 UK2 Group,52480
@@ -149,6 +148,7 @@ Reflected Networks,37164
 Carat Networks,36864
 Cyberverse,36864
 Master Internet S.R.O.,36864
+thorn.net,36864
 westhost,36864
 seeweb.it,34920
 iomart,34864
@@ -486,11 +486,13 @@ Zare,3072
 Blix Solutions,2816
 Gigabit Hosting Sdn Bhd,2816
 IKOULA,2816
+M247,2816
 crosspointcolo.co.uk,2560
 kylos.pl,2560
 activewebs.dk,2304
 Natro,2304
 Slask Data Center PL,2304
+TeraSwitch Networks Inc,2304
 tilaa,2304
 abdicar.com,2048
 ANEXIA,2048
@@ -631,7 +633,6 @@ FinalTek.com,768
 forpsi,768
 Hostinger,768
 leaderhost.ru,768
-M247,768
 quickweb.co.nz,768
 vstoike.com Russia,768
 WebReus,768
@@ -742,6 +743,7 @@ Oy Creanova Hosting Solutions Ltd,256
 Regtons CZ,256
 Rent a Rack,256
 Root Level Technology,256
+RouterHosting,256
 RTComm,256
 Sadecehosting Turkey,256
 SBY Telecom,256
