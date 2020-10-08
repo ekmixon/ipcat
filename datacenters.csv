@@ -426,6 +426,7 @@
 38.114.114.0,38.114.114.255,GTHost,https://gthost.com/
 38.114.119.0,38.114.119.255,GTHost,https://gthost.com/
 38.121.43.0,38.121.43.255,GTHost,https://gthost.com/
+38.123.137.0,38.123.137.255,LaunchVPS,https://launchvps.com/
 38.128.66.0,38.128.66.255,GTHost,https://gthost.com/
 38.143.66.0,38.143.66.255,GTHost,https://gthost.com/
 40.64.64.0,40.64.135.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1327,6 +1328,7 @@
 75.126.0.0,75.126.255.255,SoftLayer,http://www.softlayer.com/
 75.127.0.0,75.127.15.255,ColoCrossing,http://www.colocrossing.com/
 76.8.16.0,76.8.31.255,Cyberverse,http://www.cyberverse.com/
+76.8.60.0,76.8.60.255,LaunchVPS,https://launchvps.com/
 76.10.192.0,76.10.223.255,Blue Mile,http://bluemilecloud.com/
 76.12.0.0,76.12.255.255,HostMySite.com,http://www.webmysite.com/
 76.72.160.0,76.72.175.255,Database By Design,http://www.databasebydesignllc.com/
@@ -2205,6 +2207,7 @@
 151.237.181.0,151.237.181.255,webexxpurts.com,http://webexxpurts.com/
 151.237.184.0,151.237.184.255,webexxpurts.com,http://webexxpurts.com/
 154.16.139.0,154.16.139.255,GTHost,https://gthost.com/
+154.16.159.0,154.16.159.255,LaunchVPS,https://launchvps.com/
 155.94.128.0,155.94.255.255,QuadraNet,https://www.quadranet.com/
 157.52.64.0,157.52.127.255,Fastly,https://www.fastly.com/
 157.52.132.0,157.52.132.255,TeraSwitch Networks Inc,https://teraswitch.com/
