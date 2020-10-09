@@ -3114,6 +3114,7 @@
 199.96.80.0,199.96.87.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 199.101.48.0,199.101.51.255,HostRocket,http://www.hostrocket.com/
 199.101.96.0,199.101.103.255,QuickPacket,http://www.quickpacket.com/
+199.102.44.0,199.102.47.255,H4Y,https://www.h4y.us/
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
 199.103.56.0,199.103.63.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
 199.114.240.0,199.114.247.255,eHostingUSA,http://ehostingusa.com/
@@ -3675,6 +3676,7 @@
 216.182.80.0,216.182.95.255,Adhost,http://www.adhost.com/
 216.182.176.0,216.182.191.255,LightEdge,http://www.lightedge.com
 216.182.224.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
+216.184.30.0,216.184.30.255,Southwest Cyberport,https://www.swcp.com/
 216.185.96.0,216.185.127.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 216.185.129.0,216.185.130.255,Hostway,http://www.hostway.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
