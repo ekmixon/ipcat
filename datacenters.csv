@@ -543,6 +543,7 @@
 45.134.178.0,45.134.178.255,GTHost,https://gthost.com/
 45.138.1.0,45.138.1.255,GTHost,https://gthost.com/
 45.139.158.0,45.139.158.255,GTHost,https://gthost.com/
+45.248.77.0,45.248.77.255,Host Universal,http://hostuniversal.com.au/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
@@ -3534,6 +3535,7 @@
 212.45.104.0,212.45.111.255,Unbelievable Machine,http://www.unbelievable-machine.com/
 212.47.224.0,212.47.255.255,Iliad Datacenter,http://iliad-entreprises.fr/
 212.53.64.0,212.53.95.255,NetBenefit,http://www.netbenefit.com/
+212.53.128.0,212.53.255.255,Artfiles New Media GmbH,https://www.artfiles.de/
 212.64.128.0,212.64.159.255,Rackspace,http://www.rackspace.com/
 212.67.192.0,212.67.223.255,Webfusion,http://www.webfusion.com/
 212.68.46.0,212.68.46.255,Sadecehosting Turkey,https://www.sadecehosting.com/en/
