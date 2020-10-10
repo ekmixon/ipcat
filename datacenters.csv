@@ -523,6 +523,8 @@
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
+42.120.160.0,42.120.161.255,Alibaba,http://alibaba-inc.com/
+42.156.136.0,42.156.139.255,Alibaba,http://alibaba-inc.com/
 43.245.160.0,43.245.163.255,Intergrid,https://intergrid.com.au/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 44.192.0.0,44.255.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -968,6 +970,7 @@
 65.254.208.0,65.254.223.255,Peak10,http://www.peak10.com/
 65.254.224.0,65.254.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 65.255.32.0,65.255.47.255,Zenlayer,http://www.zenlayer.com/
+65.255.202.164,65.255.202.167,Pathmatics,https://www.pathmatics.com/
 66.6.96.0,66.6.127.255,LightEdge,http://www.lightedge.com
 66.7.192.0,66.7.223.255,DimeNOC,http://dimenoc.com/
 66.11.144.0,66.11.159.255,Canada Web Hosting,http://www.canadawebhosting.com/
@@ -1228,6 +1231,7 @@
 70.84.0.0,70.87.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 70.224.192.0,70.224.255.255,Amazon AWS,http://www.amazon.com/aws/
 71.6.128.0,71.6.255.255,cari.net,http://cari.net/
+71.163.17.92,71.163.17.92,unknown,unknown
 72.1.96.0,72.1.127.255,latisys,http://www.latisys.com/
 72.1.240.0,72.1.255.255,ndchost.com,http://www.ndchost.com/
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/
@@ -1261,6 +1265,7 @@
 72.44.80.0,72.44.95.255,Future Hosting Inc,http://vpsdatacenter.com/
 72.46.128.0,72.46.159.255,VersaWeb,http://www.versaweb.com/
 72.47.192.0,72.47.255.255,Media Temple,http://www.mediatemple.net/
+72.48.241.166,72.48.241.166,unknown,unknown
 72.51.0.0,72.51.63.255,PEER 1,http://www.peer1.com/
 72.52.64.0,72.52.127.255,Hurricane Electric,http://www.he.net/
 72.52.128.0,72.52.255.255,Liquid Web,http://www.liquidweb.com/
@@ -1969,6 +1974,7 @@
 104.245.96.0,104.245.103.255,VolumeDrive,http://volumedrive.com/
 104.248.0.0,104.248.255.255,Server Network Technologies,http://www.hoststore.com/
 104.255.64.0,104.255.71.255,Volume Drive,http://volumedrive.com
+106.11.152.0,106.11.159.255,Alibaba,http://alibaba-inc.com/
 106.186.120.0,106.186.127.255,Linode Japan,https://www.linode.com/
 107.6.0.0,107.6.63.255,PEER 1,http://www.peer1.com/
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
