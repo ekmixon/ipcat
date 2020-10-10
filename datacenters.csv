@@ -833,6 +833,7 @@
 63.140.0.0,63.140.15.255,Fortress Integrated Technologies,http://fortressitx.com/
 63.141.224.0,63.141.255.255,Data Shack,http://datashack.net/
 63.143.32.0,63.143.63.255,Limestone Networks,http://www.limestonenetworks.com/
+63.224.248.123,63.224.248.123,unknown,unknown
 63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
 63.249.128.0,63.249.255.255,C I Host,http://www.cihost.com/
 64.4.8.0,64.4.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1248,6 +1249,7 @@
 72.18.192.0,72.18.207.255,Premia Networks Corporation,http://www.premianet.com/
 72.20.0.0,72.20.63.255,Staminus Communications,http://staminus.net/
 72.21.32.0,72.21.63.255,Layered Technologies Inc,http://www.layeredtech.com/
+72.21.198.64,72.21.198.71,AWS,http://www.amazon.com/aws/
 72.22.66.0,72.22.67.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 72.22.69.0,72.22.73.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 72.22.75.0,72.22.76.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
@@ -3338,6 +3340,7 @@
 207.68.174.40,207.68.174.55,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.68.174.184,207.68.174.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.97.192.0,207.97.255.255,Rackspace,http://www.rackspace.com/
+207.108.87.192,207.108.87.255,dmds,https://www.dmdsmanaged.com/
 207.114.0.0,207.114.127.255,Datapoint,http://www.datapointinc.com/
 207.135.128.0,207.135.159.255,XMission,http://xmission.com/
 207.148.224.0,207.148.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
