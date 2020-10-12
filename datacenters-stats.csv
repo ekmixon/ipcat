@@ -25,7 +25,7 @@ Bluehost.com,295936
 Choopa,286808
 HostMySite.com,280320
 SingleHop,266240
-Alibaba,265728
+Alibaba,265984
 Tencent Cloud,262144
 DigitalOcean USA,261120
 Linode,259072
@@ -87,8 +87,8 @@ Limestone Networks,90112
 Radore Hosting,90112
 WholeSale Internet Inc,90112
 GoGrid LLC,86784
+LightEdge,86272
 Canaca-com Inc.,86016
-LightEdge,86016
 Zenlayer,86016
 Limelight Networks Inc,84480
 Fasthosts Internet Ltd,81920
@@ -770,6 +770,7 @@ Tentacle Networks Oy,256
 Trabia,256
 TransIP,256
 UK Servers,256
+Veerotech,256
 Veesp,256
 Veridyen,256
 Virty.io,256
@@ -806,7 +807,7 @@ AlphaRacks,8
 AWS,8
 ezine,8
 Peron Hosting,8
+unknown,7
 Hosixy,4
 Pathmatics,4
-unknown,4
 Vnet Slovakia,1

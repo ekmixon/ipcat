@@ -525,6 +525,7 @@
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 42.120.160.0,42.120.161.255,Alibaba,http://alibaba-inc.com/
 42.156.136.0,42.156.139.255,Alibaba,http://alibaba-inc.com/
+42.156.254.0,42.156.254.255,Alibaba,http://alibaba-inc.com/
 43.245.160.0,43.245.163.255,Intergrid,https://intergrid.com.au/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 44.192.0.0,44.255.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -744,6 +745,7 @@
 52.121.88.0,52.121.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.121.116.0,52.121.121.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.125.128.0,52.125.141.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.129.114.0,52.129.114.255,LightEdge,https://www.lightedge.com/
 52.136.0.0,52.143.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.143.221.0,52.143.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.146.0.0,52.159.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1870,6 +1872,7 @@
 97.74.0.0,97.74.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 97.107.128.0,97.107.143.255,Linode,http://www.linode.com/
 98.0.227.234,98.0.227.234,unknown,unknown
+98.116.200.37,98.116.200.37,unknown,unknown
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
 98.142.0.0,98.142.15.255,travailsystems.com,http://travailsystems.com/
@@ -1982,6 +1985,7 @@
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
 107.6.128.0,107.6.191.255,SingleHop,http://www.singlehop.com/
 107.20.0.0,107.23.255.255,Amazon AWS,http://www.amazon.com/aws/
+107.143.103.18,107.143.103.18,unknown,unknown
 107.150.32.0,107.150.63.255,Data Shack,https://www.datashack.net/
 107.150.96.0,107.150.127.255,Zenlayer,http://www.zenlayer.com/
 107.151.128.0,107.151.191.255,Zenlayer,http://www.zenlayer.com/
@@ -1997,6 +2001,7 @@
 107.181.160.0,107.181.191.255,Total Server Solutions,http://totalserversolutions.com/
 107.190.128.0,107.190.143.255,DimeNOC,http://dimenoc.com/
 107.191.32.0,107.191.63.255,Choopa,https://www.choopa.com/
+108.2.193.136,108.2.193.136,unknown,unknown
 108.59.0.0,108.59.15.255,Leaseweb,http://www.leaseweb.com/
 108.59.80.0,108.59.95.255,Google App Engine,https://cloud.google.com/appengine
 108.59.240.0,108.59.255.255,EarthLink Cloud,http://www.earthlinkcloud.com/
@@ -2804,6 +2809,7 @@
 192.124.208.0,192.124.219.255,demos,http://demos.ru/
 192.129.128.0,192.129.255.255,hostwinds.com,http://www.hostwinds.com/
 192.138.16.0,192.138.23.255,wiredtree,http://www.wiredtree.com/
+192.138.189.0,192.138.189.255,Veerotech,https://www.veerotech.net/
 192.151.144.0,192.151.159.255,Data Shack,https://www.datashack.net/
 192.154.96.0,192.154.111.255,Gorilla Servers,http://gorillaservers.com/
 192.155.80.0,192.155.95.255,Linode,http://www.linode.com/
