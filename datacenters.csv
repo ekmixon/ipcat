@@ -1224,6 +1224,7 @@
 70.34.96.0,70.34.111.255,4rweb.com,http://4rweb.com/
 70.34.192.0,70.34.255.255,Razor,http://www.razorservers.com/
 70.35.192.0,70.35.207.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
+70.36.32.0,70.36.47.255,Zimcom,https://www.zimcom.net/
 70.36.96.0,70.36.127.255,Perfect IP,http://www.perfectip.net/
 70.37.0.0,70.37.11.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 70.37.16.0,70.37.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -3634,6 +3635,7 @@
 216.26.128.0,216.26.191.255,Peak10,http://www.peak10.com/
 216.36.48.0,216.36.63.255,EarthLink Cloud,http://www.earthlinkcloud.com/
 216.36.192.0,216.36.255.255,Hostway,http://www.hostway.com/
+216.37.0.0,216.37.63.255,Expedient,https://expedient.com/
 216.38.48.0,216.38.63.255,ServInt,http://www.servint.net/
 216.38.128.0,216.38.159.255,Fastmetrics,http://fastmetrics.com/
 216.40.192.0,216.40.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
