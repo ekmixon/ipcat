@@ -540,6 +540,8 @@
 45.59.128.0,45.59.191.255,Roya Hosting,http://www.royahosting.com/
 45.62.192.0,45.62.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 45.63.0.0,45.63.127.255,Choopa,https://www.choopa.com/
+45.73.38.26,45.73.38.26,unknown,unknown
+45.73.43.66,45.73.43.66,unknown,unknown
 45.76.0.0,45.77.255.255,Choopa,https://www.choopa.com/
 45.125.236.0,45.125.239.255,Ftech,https://www.ftech.vn/
 45.128.158.0,45.128.158.255,GTHost,https://gthost.com/
@@ -637,6 +639,7 @@
 50.116.0.0,50.116.63.255,Linode,http://www.linode.com/
 50.116.64.0,50.116.127.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
+50.244.65.77,50.244.65.77,unknown,unknown
 51.11.0.0,51.11.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.13.0.0,51.13.159.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.15.0.0,51.15.255.255,Online.net,https://www.online.net/en
@@ -3618,6 +3621,7 @@
 213.232.110.0,213.232.110.255,UK2 Group,http://www.uk2.net/
 213.239.128.0,213.239.191.255,trueserver.nl,http://trueserver.nl/
 213.239.192.0,213.239.255.255,Hetzner Online AG,http://www.hetzner.de/
+213.247.47.36,213.247.47.36,unknown,unknown
 213.251.128.0,213.251.191.255,OVH,http://www.ovh.co.uk/
 216.6.224.0,216.6.239.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 216.7.160.0,216.7.191.255,latisys,http://www.latisys.com/
