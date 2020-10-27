@@ -2342,6 +2342,8 @@
 162.251.60.0,162.251.63.255,GTHost,https://globaltelehost.com/
 162.252.240.0,162.252.243.255,KW Datacenter CA,http://www.kwdatacentre.com/
 163.47.8.0,163.47.11.255,DigitalOcean,https://www.digitalocean.com/
+163.47.17.0,163.47.17.255,Ransom IT,https://www.ransomit.com.au/
+163.47.20.0,163.47.20.255,Ransom IT,https://www.ransomit.com.au/
 164.40.133.0,164.40.133.255,GoGrid LLC,http://www.gogrid.com/
 164.40.144.0,164.40.144.255,GoGrid LLC,http://www.gogrid.com/
 164.40.147.0,164.40.147.255,GoGrid LLC,http://www.gogrid.com/
@@ -3537,6 +3539,7 @@
 209.200.128.0,209.200.191.255,Akamai,http://akamai.com/
 209.200.224.0,209.200.255.255,Lunar Pages,http://www.lunarpages.com/
 209.203.224.0,209.203.255.255,PEER 1,http://www.peer1.com/
+209.208.0.0,209.208.127.255,Atlantic.net,https://atlantic.net/
 209.213.96.0,209.213.127.255,PEER 1,http://www.peer1.com/
 209.216.0.0,209.216.63.255,HostMySite.com,http://www.webmysite.com/
 209.216.192.0,209.216.255.255,American Internet Services,http://americanis.net/
@@ -3625,7 +3628,7 @@
 213.232.110.0,213.232.110.255,UK2 Group,http://www.uk2.net/
 213.239.128.0,213.239.191.255,trueserver.nl,http://trueserver.nl/
 213.239.192.0,213.239.255.255,Hetzner Online AG,http://www.hetzner.de/
-213.247.47.36,213.247.47.36,unknown,unknown
+213.247.46.0,213.247.47.255,Webair Internet Development Inc,http://www.webair.com/
 213.251.128.0,213.251.191.255,OVH,http://www.ovh.co.uk/
 216.6.224.0,216.6.239.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 216.7.160.0,216.7.191.255,latisys,http://www.latisys.com/
