@@ -1931,6 +1931,8 @@
 103.22.200.0,103.22.203.255,Cloudflare Inc,https://www.cloudflare.com/
 103.23.20.0,103.23.23.255,Infinys,http://isi.co.id/
 103.23.152.0,103.23.155.255,ozhosting.com,http://ozhosting.com/
+103.25.56.0,103.25.56.255,Ransom IT,https://www.ransomit.com.au/
+103.25.58.0,103.25.58.255,Ransom IT,https://www.ransomit.com.au/
 103.28.148.0,103.28.149.255,Argon Data Communication,http://easyway.co.id
 103.31.4.0,103.31.7.255,Cloudflare Inc,https://www.cloudflare.com/
 103.45.228.0,103.45.231.255,ESC,https://esc.vn/
@@ -3131,6 +3133,7 @@
 199.80.56.0,199.80.63.255,Techie Media,http://techiemedia.net/
 199.83.48.0,199.83.51.255,awknet,http://awknet.com/
 199.83.88.0,199.83.95.255,Psychz Networks,http://psychz.net/
+199.83.208.0,199.83.215.255,H4Y Technologies LLC,https://www.h4y.us/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
 199.91.72.0,199.91.75.255,Zenlayer,http://www.zenlayer.com/
