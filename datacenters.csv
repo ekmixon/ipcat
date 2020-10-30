@@ -912,6 +912,7 @@
 64.182.0.0,64.182.255.255,C I Host,http://www.cihost.com/
 64.187.96.0,64.187.127.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 64.191.0.0,64.191.127.255,hostnoc,http://www.hostnoc.net/
+64.201.171.0,64.201.171.127,SWD,https://www.swd.ca/
 64.202.96.0,64.202.127.255,ServerCentral,http://www.servercentral.net/
 64.202.160.0,64.202.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 64.203.96.0,64.203.111.255,Airnet Group,http://smartechcorp.net/
@@ -1022,6 +1023,7 @@
 66.160.128.0,66.160.207.255,Hurricane Electric,http://www.he.net/
 66.165.128.0,66.165.159.255,ActiveHost,http://www.activehost.com/
 66.172.0.0,66.172.63.255,Cyberverse,http://www.cyberverse.com/
+66.180.160.0,66.180.175.255,netsonic,https://www.netsonic.net/
 66.180.192.0,66.180.207.255,Cyberverse,http://www.cyberverse.com/
 66.197.128.0,66.197.255.255,hostnoc,http://www.hostnoc.net/
 66.199.128.0,66.199.191.255,PEER 1,http://www.peer1.com/
@@ -1167,7 +1169,7 @@
 69.39.224.0,69.39.239.255,gigeNET,http://www.gigenet.com/
 69.41.160.0,69.41.191.255,1-800-Hosting,http://www.800hosting.com/
 69.41.224.0,69.41.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
-69.42.49.0,69.42.55.255,Cologlobal,https://www.cologlobal.com/
+69.42.48.0,69.42.63.255,cologlobal,https://www.cologlobal.com/
 69.42.64.0,69.42.95.255,Webair Internet Development Inc,http://www.webair.com/
 69.42.208.0,69.42.223.255,awknet,http://awknet.com/
 69.46.64.0,69.46.95.255,EGIHosting.com,http://www.egihosting.com/
@@ -1960,6 +1962,7 @@
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
 104.143.0.0,104.143.15.255,Versaweb,https://versaweb.com/
 104.145.224.0,104.145.239.255,DigitalFyre,https://www.digitalfyre.com/
+104.152.223.0,104.152.223.255,H4Y,https://www.h4y.us/
 104.154.0.0,104.155.255.255,Google App Engine,https://cloud.google.com/appengine
 104.156.80.0,104.156.95.255,Fastly,https://www.fastly.com/
 104.156.224.0,104.156.255.255,Choopa,https://www.choopa.com/
@@ -2138,6 +2141,7 @@
 130.185.144.0,130.185.151.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 130.185.152.0,130.185.155.255,webexxpurts.com,http://webexxpurts.com/
 130.211.4.0,130.211.63.255,Google App Engine,https://cloud.google.com/appengine
+130.255.72.0,130.255.79.255,Providerdienste.de,https://www.providerdienste.de/
 131.0.72.0,131.0.75.255,Cloudflare Inc,https://www.cloudflare.com/
 131.253.12.16,131.253.12.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 131.253.12.40,131.253.12.55,Microsoft Azure,http://www.windowsazure.com/en-us/
