@@ -3307,6 +3307,7 @@
 205.251.171.74,205.251.171.75,unknown,unknown
 206.41.112.0,206.41.127.255,RisingNet,http://risingnet.net/
 206.41.192.0,206.41.223.255,Datapoint,http://www.datapointinc.com/
+206.41.224.0,206.41.255.255,netdoor,http://netdoor.com/
 206.51.224.0,206.51.239.255,Hivelocity Hosting,http://www.hivelocity.net/
 206.71.160.0,206.71.191.255,American Internet Services,http://americanis.net/
 206.72.192.0,206.72.207.255,InterServer.net,http://www.interserver.net/
@@ -3428,6 +3429,7 @@
 208.81.200.0,208.81.203.255,Zenlayer,http://www.zenlayer.com/
 208.82.112.0,208.82.119.255,ndchost.com,http://www.ndchost.com/
 208.82.144.0,208.82.151.255,Datotel,http://www.datotel.com/
+208.82.183.0,208.82.183.255,Webservio,http://webservio.biz/
 208.82.204.0,208.82.207.255,Connectria,http://www.connectria.com/
 208.83.76.0,208.83.79.255,Immedion,http://immedion.com/
 208.83.140.0,208.83.143.255,netriplex,http://www.netriplex.com/
