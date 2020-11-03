@@ -1281,6 +1281,7 @@
 72.52.64.0,72.52.127.255,Hurricane Electric,http://www.he.net/
 72.52.128.0,72.52.255.255,Liquid Web,http://www.liquidweb.com/
 72.55.128.0,72.55.191.255,iWeb Technologies Inc.,http://iweb.com/
+72.137.165.198,72.137.165.198,unknown,unknown
 72.167.0.0,72.167.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 72.172.128.0,72.172.143.255,Jumpline Inc,http://www.jumpline.com/
 72.232.0.0,72.233.127.255,Layered Technologies Inc,http://www.layeredtech.com/
@@ -2418,6 +2419,7 @@
 173.213.224.0,173.213.239.255,Edgewebhosting,http://www.edgewebhosting.net/
 173.213.240.0,173.213.255.255,American Internet Services,http://americanis.net/
 173.214.160.0,173.214.175.255,InterServer.net,http://www.interserver.net/
+173.214.184.0,173.214.191.255,KVCHOSTING.COM LLC,https://www.kvchosting.net/
 173.222.0.0,173.223.255.255,Akamai,http://akamai.com/
 173.224.112.0,173.224.127.255,Hosting Solutions International Inc,http://www.plusserver.de
 173.224.208.0,173.224.223.255,Psychz Networks,http://psychz.net/
@@ -3051,6 +3053,7 @@
 198.72.96.0,198.72.127.255,iWeb Technologies Inc.,http://iweb.com/
 198.74.48.0,198.74.63.255,Linode,http://www.linode.com/
 198.74.96.0,198.74.127.255,multacom.com,http://multacom.com/
+198.74.228.0,198.74.231.255,InfraDMS,https://infradms.com/
 198.84.64.0,198.84.127.255,hostwinds.com,http://www.hostwinds.com/
 198.89.96.0,198.89.127.255,Silicon Valley Web Hosting,http://www.svwh.net/
 198.91.80.0,198.91.95.255,x10hosting,http://x10hosting.com/
@@ -3164,6 +3167,7 @@
 199.127.56.0,199.127.63.255,fiberhub.com,http://www.fiberhub.com/
 199.127.248.0,199.127.255.255,Reliable Hosting,http://reliablehosting.com/
 199.165.249.0,199.165.250.255,XMission,http://xmission.com/
+199.167.20.0,199.167.20.255,Astute Hosting,https://astuteinternet.com/
 199.167.40.0,199.167.47.255,ServInt,http://www.servint.net/
 199.167.72.0,199.167.79.255,BlackMesh,http://www.blackmesh.com/
 199.167.132.0,199.167.135.255,Input Output Flood LLC,http://ioflood.com/
@@ -3202,8 +3206,10 @@
 199.195.212.0,199.195.215.255,Forta Trust,http://www.fortatrust.com/
 199.204.44.0,199.204.47.255,vexxhost web hosting,http://vexxhost.com/
 199.204.136.0,199.204.139.255,Firehost,http://www.firehost.com/
+199.204.212.0,199.204.212.255,DynamicHosting,https://www.dynamichosting.ca/
 199.204.248.0,199.204.255.255,Jumpline Inc,http://www.jumpline.com/
 199.217.112.0,199.217.119.255,Hosting Solutions Internationa,http://www.server4you.com/
+199.223.252.0,199.223.255.255,TurnKey Internet,https://www.turnkeyinternet.net/
 199.229.248.0,199.229.255.255,colo@,http://coloat.com/
 199.230.52.0,199.230.55.255,ServInt,http://www.servint.net/
 199.231.84.0,199.231.87.255,Input Output Flood LLC,http://ioflood.com/
@@ -3262,6 +3268,7 @@
 204.12.0.0,204.12.127.255,HostMySite.com,http://www.webmysite.com/
 204.12.192.0,204.12.255.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
 204.13.152.0,204.13.155.255,multacom.com,http://multacom.com/
+204.14.86.0,204.14.87.255,Dynamic Internet,https://dynamicinternet.com/
 204.14.104.0,204.14.111.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 204.14.120.0,204.14.123.255,AllHostShop.com,http://www.allhostshop.com/
 204.15.72.0,204.15.79.255,multacom.com,http://multacom.com/
@@ -3311,6 +3318,7 @@
 206.51.224.0,206.51.239.255,Hivelocity Hosting,http://www.hivelocity.net/
 206.71.160.0,206.71.191.255,American Internet Services,http://americanis.net/
 206.72.192.0,206.72.207.255,InterServer.net,http://www.interserver.net/
+206.75.231.129,206.75.231.129,unknown,unknown
 206.81.0.0,206.81.31.255,DigitalOcean,https://www.digitalocean.com/
 206.82.192.0,206.82.223.255,latisys,http://www.latisys.com/
 206.123.64.0,206.123.127.255,colo4dallas.com,http://colo4dallas.com/
