@@ -2240,6 +2240,7 @@
 154.16.139.0,154.16.139.255,GTHost,https://gthost.com/
 154.16.159.0,154.16.159.255,LaunchVPS,https://launchvps.com/
 155.94.128.0,155.94.255.255,QuadraNet,https://www.quadranet.com/
+155.254.18.0,155.254.18.255,H4Y,https://www.h4y.us/
 157.52.64.0,157.52.127.255,Fastly,https://www.fastly.com/
 157.52.132.0,157.52.132.255,TeraSwitch Networks Inc,https://teraswitch.com/
 157.55.2.128,157.55.2.191,Microsoft Azure,http://www.windowsazure.com/en-us/
