@@ -106,6 +106,7 @@ ServInt,70656
 alog,69632
 MojoHost,69632
 WebNX Internet Services,69632
+Aureon Network Services,65536
 DigitalOcean Singapore,65536
 Energy Group Networks,65536
 Locaweb,65536
@@ -573,6 +574,7 @@ Reg.ru,1536
 Tangram Ukraine,1536
 Biznes-Host.pl,1280
 CoolVDS,1280
+Ransom IT,1280
 UK2 Hosting Services,1280
 vds64.com,1280
 yisp Netherlands,1280
@@ -630,7 +632,6 @@ ozhosting.com,1024
 ProHoster.info,1024
 Prometey,1024
 r01,1024
-Ransom IT,1024
 SeFlow.it Internet Services,1024
 SpaceWeb,1024
 SuperData,1024
@@ -820,7 +821,7 @@ Dedizull,36
 CINIPAC,32
 LippunerHosting,32
 e-commercepark.com,24
-unknown,17
+unknown,19
 Alibaba Host,16
 Ares Hosting,16
 MnogoByte,16

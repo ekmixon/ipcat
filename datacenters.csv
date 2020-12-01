@@ -971,6 +971,8 @@
 65.98.0.0,65.98.127.255,Fortress Integrated Technologies,http://fortressitx.com/
 65.99.192.0,65.99.255.255,colo4dallas.com,http://colo4dallas.com/
 65.111.160.0,65.111.191.255,ServerPronto,http://www.serverpronto.com/
+65.154.226.165,65.154.226.165,unknown,unknown
+65.155.30.101,65.155.30.101,unknown,unknown
 65.175.64.0,65.175.127.255,Cybercon,https://www.cybercon.com/
 65.181.128.0,65.181.191.255,Pair Networks,http://www.pair.com/
 65.182.96.0,65.182.111.255,brinkster,http://brinkster.com/
@@ -1938,7 +1940,7 @@
 103.23.20.0,103.23.23.255,Infinys,http://isi.co.id/
 103.23.152.0,103.23.155.255,ozhosting.com,http://ozhosting.com/
 103.25.56.0,103.25.56.255,Ransom IT,https://www.ransomit.com.au/
-103.25.58.0,103.25.58.255,Ransom IT,https://www.ransomit.com.au/
+103.25.58.0,103.25.59.255,Ransom IT,https://www.ransomit.com.au/
 103.28.148.0,103.28.149.255,Argon Data Communication,http://easyway.co.id
 103.31.4.0,103.31.7.255,Cloudflare Inc,https://www.cloudflare.com/
 103.45.228.0,103.45.231.255,ESC,https://esc.vn/
@@ -2367,6 +2369,7 @@
 167.88.60.0,167.88.63.255,GTHost,https://gthost.com/
 167.99.0.0,167.99.255.255,DigitalOcean,https://www.digitalocean.com/
 167.114.0.0,167.114.255.255,OVH,https://www.ovh.com/ca/en/
+167.142.0.0,167.142.255.255,Aureon Network Services,http://aureon.com/
 167.160.32.0,167.160.63.255,Web2Objects,https://web2objects.com/
 168.1.0.0,168.1.255.255,SoftLayer,http://www.softlayer.com/
 168.61.0.0,168.61.128.143,Microsoft Azure,http://www.windowsazure.com/en-us/
