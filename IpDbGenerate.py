@@ -38,37 +38,3 @@ for line in fp:
 # return the list of entries, sorted by the lowest ip in the range
 iplist = tuple(v for (k, v) in sorted(iplist.iteritems(),
                                       key=itemgetter(0)))
-
-# autogenerate the class to perform lookups
-print """#!/usr/bin/env python
-
-from socket import inet_aton
-from struct import unpack
-from math import floor
-
-
-class IpDb(object):
-    iplist = %s
-
-    @staticmethod
-    def find(ipstring):
-        ip = unpack("!L", inet_aton(ipstring))[0]
-
-        high = len(IpDb.iplist)-1
-        low = 0
-        while high >= low:
-            probe = int(floor((high+low)/2))
-            if IpDb.iplist[probe][0] > ip:
-                high = probe - 1
-            elif IpDb.iplist[probe][1] < ip:
-                low = probe + 1
-            else:
-                return IpDb.iplist[probe]
-        return None
-
-
-if __name__ == "__main__":
-    import sys
-    for ip in sys.argv[1:]:
-        print IpDb.find(ip)
-""" % (pp.pformat(iplist), )
